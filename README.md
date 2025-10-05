@@ -19,11 +19,11 @@ Leia o enunciado completo no Canvas.
 
 ## Print da Home-Page
 
-![Tela de inspeção com navegador](images/home.png)
+![Tela de inspeção com navegador](img/home.png)
 
 ## Print da página de detalhes do item
 
-![Tela de inspeção com navegador](images/detalhes.png)
+![Tela de inspeção com navegador](img/detalhes.png)
 
 ## Cole aqui abaixo a estrutura JSON utilizada no app.js
 const dados = [
